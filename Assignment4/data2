@@ -1,0 +1,11 @@
+FoodItem - UPC Code: 0353264991  Shelf life: 2  Name: chestnut puree with vanilla
+FoodItem - UPC Code: 0984523912  Shelf life: 1  Name: the blue box
+Warehouse - Sandy
+Warehouse - Toledo
+Start date: 05/01/2010
+Request: 0984523912 2 Toledo
+Request: 0984523912 2 Sandy
+Next day:
+Request: 0353264991 4 Toledo
+Request: 0353264991 1 Sandy
+End

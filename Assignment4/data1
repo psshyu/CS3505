@@ -1,0 +1,19 @@
+FoodItem - UPC Code: 0353264991  Shelf life: 2  Name: chestnut puree with vanilla
+FoodItem - UPC Code: 0984523912  Shelf life: 1  Name: the blue box
+FoodItem - UPC Code: 0312318880  Shelf life: 4  Name: bounty dark chocolate
+FoodItem - UPC Code: 0967654725  Shelf life: 5  Name: brach fruit slices
+FoodItem - UPC Code: 0161551039  Shelf life: 6  Name: ice cream cake
+Warehouse - Sandy
+Warehouse - Toledo
+Start date: 05/01/2010
+Receive: 0984523912 2 Toledo
+Receive: 0984523912 2 Sandy
+Request: 0312318880 5 Sandy
+Next day:
+Receive: 0353264991 2 Toledo
+Receive: 0353264991 2 Sandy
+Request: 0967654725 6 Toledo
+Next day:
+Request: 0161551039 7 Sandy
+Request: 0353264991 1 Toledo
+End

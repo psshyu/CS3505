@@ -1,0 +1,76 @@
+FoodItem - UPC Code: 0848751468  Shelf life: 5  Name: elan frozen coffee yogurt
+FoodItem - UPC Code: 0814194965  Shelf life: 3  Name: for maximum value chocolate chip cookies
+FoodItem - UPC Code: 0289016410  Shelf life: 2  Name: organic fruit munchies
+FoodItem - UPC Code: 0347866846  Shelf life: 3  Name: slice one blue soda
+FoodItem - UPC Code: 0227396674  Shelf life: 1  Name: swiss miss no sugar added cocoa
+Warehouse - Chandler
+Warehouse - Modesto
+Warehouse - Sandy
+Warehouse - Springfield
+Warehouse - Fullerton
+Start date: 05/01/2010
+Request: 0227396674 3 Modesto
+Request: 0347866846 8 Modesto
+Receive: 0227396674 9 Springfield
+Request: 0347866846 1 Chandler
+Receive: 0227396674 4 Modesto
+Receive: 0289016410 9 Springfield
+Receive: 0814194965 3 Modesto
+Receive: 0848751468 9 Sandy
+Request: 0848751468 3 Springfield
+Receive: 0814194965 8 Fullerton
+Request: 0289016410 4 Fullerton
+Request: 0289016410 7 Modesto
+Receive: 0289016410 1 Modesto
+Next day:
+Request: 0227396674 1 Modesto
+Request: 0848751468 2 Springfield
+Receive: 0289016410 5 Fullerton
+Receive: 0227396674 4 Springfield
+Receive: 0347866846 3 Modesto
+Next day:
+Receive: 0814194965 1 Fullerton
+Receive: 0848751468 1 Fullerton
+Receive: 0848751468 2 Sandy
+Receive: 0347866846 4 Fullerton
+Receive: 0814194965 8 Chandler
+Next day:
+Request: 0227396674 6 Modesto
+Request: 0227396674 4 Chandler
+Receive: 0227396674 1 Springfield
+Receive: 0227396674 9 Springfield
+Receive: 0848751468 3 Springfield
+Request: 0347866846 6 Modesto
+Request: 0289016410 1 Chandler
+Receive: 0347866846 5 Modesto
+Request: 0814194965 3 Springfield
+Request: 0347866846 1 Sandy
+Request: 0814194965 1 Sandy
+Request: 0814194965 7 Sandy
+Request: 0848751468 2 Sandy
+Receive: 0848751468 10 Springfield
+Next day:
+Request: 0347866846 4 Modesto
+Request: 0814194965 7 Modesto
+Receive: 0814194965 7 Chandler
+Receive: 0289016410 6 Fullerton
+Receive: 0227396674 5 Springfield
+Next day:
+Receive: 0289016410 4 Springfield
+Receive: 0347866846 2 Sandy
+Request: 0289016410 6 Springfield
+Receive: 0227396674 4 Springfield
+Next day:
+Request: 0814194965 9 Chandler
+Receive: 0347866846 2 Springfield
+Receive: 0848751468 1 Sandy
+Receive: 0227396674 4 Springfield
+Receive: 0848751468 2 Sandy
+Receive: 0347866846 1 Sandy
+Receive: 0848751468 10 Modesto
+Request: 0227396674 2 Sandy
+Request: 0227396674 1 Springfield
+Request: 0289016410 10 Chandler
+Receive: 0227396674 8 Sandy
+Request: 0848751468 1 Fullerton
+End
